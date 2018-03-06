@@ -1,0 +1,8 @@
+[package]
+name = "stl_3d"
+version = "0.1.0"
+authors = ["Willi Kappler <grandor@gmx.de>"]
+
+[dependencies]
+nom = "3.2"
+byteorder = "1.2.1"
